@@ -3,7 +3,7 @@
 %define mybuildnumber %{?build_number}%{?!build_number:1}
 
 Name:           seedvault-backup-parser
-Version:        2020.10.23
+Version:        2020.12.01
 Release:        %{mybuildnumber}%{?dist}
 Summary:        Parse Seedvault backups
 BuildArch:      noarch
